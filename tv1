@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: Das Erste HD" tvg-logo="http://ondemandvodstreaming.com/icons/ARD.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: Das Erste HD
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD" tvg-logo="http://ondemandvodstreaming.com/icons/ARD.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: Das Erste HD
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18595
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3 sat HD" tvg-logo="http://ondemandvodstreaming.com:80/icons/3sat.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: 3 sat HD
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18604
