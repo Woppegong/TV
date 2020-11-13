@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="orf1.at" tvg-name="DE: ORF 1 HD" tvg-logo="http://ondemandvodstreaming.com/icons/orf1.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: ORF 1 HD
+#EXTINF:-1 tvg-id="orf1.at" tvg-name="DE: ORF 1 HD" tvg-logo="http://ondemandvodstreaming.com/icons/orf1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 1 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18643
-#EXTINF:-1 tvg-id="orf2.at" tvg-name="DE: ORF 2 HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: ORF 2 HD
+#EXTINF:-1 tvg-id="orf2.at" tvg-name="DE: ORF 2 HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18644
-#EXTINF:-1 tvg-id="orf3.at" tvg-name="DE: ORF III" tvg-logo="http://ondemandvodstreaming.com/icons/orf3.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: ORF III
+#EXTINF:-1 tvg-id="orf3.at" tvg-name="DE: ORF III" tvg-logo="http://ondemandvodstreaming.com/icons/orf3.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 3 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18645
-#EXTINF:-1 tvg-id="" tvg-name="ORF2B HD" tvg-logo="" group-title="DEUTSCHLAND HD & FHD PLUS",ORF2B HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF2B HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2B [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/136129
-#EXTINF:-1 tvg-id="" tvg-name="ORF2K HD" tvg-logo="" group-title="DEUTSCHLAND HD & FHD PLUS",ORF2K HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF2K HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2K [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/136130
-#EXTINF:-1 tvg-id="" tvg-name="ORF2O HD" tvg-logo="" group-title="DEUTSCHLAND HD & FHD PLUS",ORF2O HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF2O HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2O [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/136131
-#EXTINF:-1 tvg-id="" tvg-name="ORF2O HD" tvg-logo="" group-title="DEUTSCHLAND HD & FHD PLUS",ORF2O HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF2O HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2O [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/136132
-#EXTINF:-1 tvg-id="" tvg-name="ORF2S HD" tvg-logo="" group-title="DEUTSCHLAND HD & FHD PLUS",ORF2S HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF2S HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2S [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/136133
-#EXTINF:-1 tvg-id="" tvg-name="ORF2St HD" tvg-logo="" group-title="DEUTSCHLAND HD & FHD PLUS",ORF2St HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF2St HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2St [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/136134
-#EXTINF:-1 tvg-id="" tvg-name="ORF2T HD" tvg-logo="" group-title="DEUTSCHLAND HD & FHD PLUS",ORF2T HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF2T HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2T [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/136135
-#EXTINF:-1 tvg-id="" tvg-name="ORF2V HD" tvg-logo="" group-title="DEUTSCHLAND HD & FHD PLUS",ORF2V HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF2V HD" tvg-logo="http://ondemandvodstreaming.com/icons/cazzo1.png" group-title="DEUTSCHLAND HD & FHD PLUS",ORF 2V [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/136136
-#EXTINF:-1 tvg-id="atv.de" tvg-name="DE: ATV HD" tvg-logo="http://ondemandvodstreaming.com/icons/atv.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: ATV HD
+#EXTINF:-1 tvg-id="atv.de" tvg-name="DE: ATV HD" tvg-logo="http://ondemandvodstreaming.com/icons/atv.png" group-title="DEUTSCHLAND HD & FHD PLUS",ATV [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18640
-#EXTINF:-1 tvg-id="atv.de" tvg-name="DE: ATV 2" tvg-logo="http://ondemandvodstreaming.com/icons/atv.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: ATV 2
+#EXTINF:-1 tvg-id="atv.de" tvg-name="DE: ATV 2" tvg-logo="http://ondemandvodstreaming.com/icons/atv.png" group-title="DEUTSCHLAND HD & FHD PLUS",ATV 2 [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18641
-#EXTINF:-1 tvg-id="puls4.at" tvg-name="DE: PULS 24 HEVC" tvg-logo="http://ondemandvodstreaming.com/icons/PULS24.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: PULS 24 HEVC
+#EXTINF:-1 tvg-id="puls4.at" tvg-name="DE: PULS 24 HEVC" tvg-logo="http://ondemandvodstreaming.com/icons/PULS24.png" group-title="DEUTSCHLAND HD & FHD PLUS",PULS 24 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/112666
-#EXTINF:-1 tvg-id="puls4.at" tvg-name="DE: PULS 24" tvg-logo="http://ondemandvodstreaming.com/icons/PULS24.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: PULS 24
+#EXTINF:-1 tvg-id="puls4.at" tvg-name="DE: PULS 24" tvg-logo="http://ondemandvodstreaming.com/icons/PULS24.png" group-title="DEUTSCHLAND HD & FHD PLUS",PULS 24 [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18657
-#EXTINF:-1 tvg-id="lustpur.de" tvg-name="DE: PULS 4 Austria" tvg-logo="http://ondemandvodstreaming.com/icons/PULS24.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: PULS 4 Austria
+#EXTINF:-1 tvg-id="lustpur.de" tvg-name="DE: PULS 4 Austria" tvg-logo="http://ondemandvodstreaming.com/icons/PULS24.png" group-title="DEUTSCHLAND HD & FHD PLUS",PULS 4 Austria [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18642
-#EXTINF:-1 tvg-id="servustv.at" tvg-name="DE: ServusTv Oesterreich 720" tvg-logo="http://ondemandvodstreaming.com/icons/SERVUSTV.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: ServusTv Oesterreich 720
+#EXTINF:-1 tvg-id="servustv.at" tvg-name="DE: ServusTv Oesterreich 720" tvg-logo="http://ondemandvodstreaming.com/icons/SERVUSTV.png" group-title="DEUTSCHLAND HD & FHD PLUS",Servus Tv [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18647
-#EXTINF:-1 tvg-id="orfsport.at" tvg-name="DE: ORF SPORT+ HD RAW" tvg-logo="" group-title="DEUTSCHLAND RAW 50 FPS",DE: ORF SPORT+ HD RAW
+#EXTINF:-1 tvg-id="orfsport.at" tvg-name="DE: ORF SPORT+ HD RAW" tvg-logo="" group-title="DEUTSCHLAND RAW 50 FPS",ORF SPORT+ [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/143268
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX Austria" tvg-logo="http://ondemandvodstreaming.com/icons/DMAX.png" group-title="DEUTSCHLAND DOKU",DE: DMAX Austria
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX Austria" tvg-logo="http://ondemandvodstreaming.com/icons/DMAX.png" group-title="DEUTSCHLAND DOKU",DMAX [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18697
