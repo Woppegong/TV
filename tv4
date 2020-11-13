@@ -43,65 +43,65 @@ http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/72790
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/72791
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 10 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/buli10.png" group-title="DEUTSCHLAND SKY SPORT",Sky Bundesliga 10 [B][COLORyellow]FHD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/72792
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 HD" tvg-logo="http://ondemandvodstreaming.com/icons/SkySport1HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 1 [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DD_4_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 1 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18827
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1" tvg-logo="http://ondemandvodstreaming.com/icons/SkySport1HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 1 [B][COLORroyalblue]SD[/COLOR][/B]
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DD_4_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 1 [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18828
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/sport2hd.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 2 [B][COLORyellow]FHD[/COLOR][/B]
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 HD+" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DE_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 2 [B][COLORyellow]FHD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18829
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://ondemandvodstreaming.com/icons/sport2hd.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 2 [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DE_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 2 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18830
-#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD+ ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/SkySport3HD1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 3 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD+ ONLY ON MATCHDAY" tvg-logo="http://apps.iptv.lu/images/channel/original/205.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 3 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18831
-#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/SkySport3HD1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 3 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD ONLY ON MATCHDAY" tvg-logo="http://apps.iptv.lu/images/channel/original/205.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 3 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18832
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 HD+ ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/skysport4HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 4 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 HD+ ONLY ON MATCHDAY" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_111_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 4 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18833
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 HD ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/skysport4HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 4 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 HD ONLY ON MATCHDAY" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_111_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 4 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18834
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4" tvg-logo="http://ondemandvodstreaming.com/icons/skysport4HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 4 [B][COLORroyalblue]SD[/COLOR][/B] Nur Live 
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_111_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 4 [B][COLORroyalblue]SD[/COLOR][/B] Nur Live 
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18835
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/SkySport5HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 5 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 HD+" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_11B_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 5 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18836
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 HD ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/SkySport5HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 5 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 HD ONLY ON MATCHDAY" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_11B_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 5 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18837
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/SkySport5HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 5 [B][COLORroyalblue]SD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 ONLY ON MATCHDAY" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_11B_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 5 [B][COLORroyalblue]SD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18838
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: Sky Sport 6 HD+ ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/SKYSport6HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 6 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: Sky Sport 6 HD+ ONLY ON MATCHDAY" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_125_3_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 6 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18839
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: Sky Sport 6 HD ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/SKYSport6HD.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 6 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: Sky Sport 6 HD ONLY ON MATCHDAY" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_125_3_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 6 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18840
-#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: Sky Sport 7 HD+ ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/skysport7hd1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 7 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: Sky Sport 7 HD+ ONLY ON MATCHDAY" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_12F_3_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 7 [B][COLORyellow]FHD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18841
-#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: Sky Sport 7 HD ONLY ON MATCHDAY" tvg-logo="http://ondemandvodstreaming.com/icons/skysport7hd1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 7 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: Sky Sport 7 HD ONLY ON MATCHDAY" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_12F_3_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 7 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18842
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://ondemandvodstreaming.com/icons/skysport7hd1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 8 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_139_3_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 8 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/124125
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://ondemandvodstreaming.com/icons/skysport7hd1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 9 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_143_3_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 9 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/124126
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 HD" tvg-logo="http://ondemandvodstreaming.com/icons/skysport7hd1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 10 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_14D_2_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 10 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/124127
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 11 HD" tvg-logo="http://ondemandvodstreaming.com/icons/skysport7hd1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 11 [B][COLORlime]HD[/COLOR][/B] Nur Live
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 11 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_FD_3_85_C00000_0_0_0.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport 11 [B][COLORlime]HD[/COLOR][/B] Nur Live
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/124128
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: Sky Sport Austria 1 HD" tvg-logo="http://ondemandvodstreaming.com/icons/sportaustria1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 1 [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: Sky Sport Austria 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 1 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18844
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: Sky Sport Austria 1 HD" tvg-logo="http://ondemandvodstreaming.com/icons/sportaustria1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 1 [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: Sky Sport Austria 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 1 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18845
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: Sky Sport Austria 1 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/sportaustria1.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 1 [B][COLORyellow]FHD[/COLOR][/B]
+#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: Sky Sport Austria 1 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 1 [B][COLORyellow]FHD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18843
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 2 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/skysportaustria2.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 2 [B][COLORyellow]FHD[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 2 [B][COLORyellow]FHD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18846
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 2 HD" tvg-logo="http://ondemandvodstreaming.com/icons/skysportaustria2.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 2 [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 2 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18847
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 3 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/skysportaustria3.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 3 [B][COLORyellow]FHD[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 3 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 3 [B][COLORyellow]FHD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18848
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 3 HD" tvg-logo="http://ondemandvodstreaming.com/icons/skysportaustria3.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 3 [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 3 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18849
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 4 HD" tvg-logo="http://ondemandvodstreaming.com/icons/skysportaustria3.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 4 [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 4 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/90710
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 4 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/skysportaustria3.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 4 [B][COLORyellow]FHD[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 4 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="DEUTSCHLAND SKY SPORT",Sky Sport Austria 4 [B][COLORyellow]FHD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/90709
-#EXTINF:-1 tvg-id="" tvg-name="DE: Auto Motor Sport HD" tvg-logo="http://ondemandvodstreaming.com/icons/AutoMotorSportHD.png" group-title="DEUTSCHLAND SKY SPORT",Auto Motor Sport [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="DE: Auto Motor Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Auto_motor_und_sport_channel.svg/320px-Auto_motor_und_sport_channel.svg.png" group-title="DEUTSCHLAND SKY SPORT",Auto Motor Sport [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18850
 #EXTINF:-1 tvg-id="dazn.de" tvg-name="DE: DAZN 1 Bar HD+" tvg-logo="http://ondemandvodstreaming.com/icons/daznbar1.png" group-title="DEUTSCHLAND SKY SPORT",DAZN 1 Bar [B][COLORyellow]FHD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18804
