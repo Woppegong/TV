@@ -3,7 +3,7 @@
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18595
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3 sat HD" tvg-logo="http://ondemandvodstreaming.com:80/icons/3sat.png" group-title="DEUTSCHLAND HD & FHD PLUS",3 sat [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18604
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: arte HD" tvg-logo="http://ondemandvodstreaming.com/icons/artehd.png" group-title="DEUTSCHLAND HD & FHD PLUS",arte [B][COLORlime]HD[/COLOR][/B]
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: arte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arte_HD_Logo.svg/678px-Arte_HD_Logo.svg.png" group-title="DEUTSCHLAND HD & FHD PLUS",arte [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18650
 #EXTINF:-1 tvg-id="mdr.de" tvg-name="DE: MDR" tvg-logo="http://ondemandvodstreaming.com/icons/mdr.png" group-title="DEUTSCHLAND HD & FHD PLUS",MDR [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18599
@@ -171,21 +171,4 @@ http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/66201
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18685
 #EXTINF:-1 tvg-id="nicktoons.de" tvg-name="DE: Nicktoons" tvg-logo="http://ondemandvodstreaming.com/icons/toons.png" group-title="DEUTSCHLAND KINDER CHANNEL",Nicktoons [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/111613
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: Eurosport 1 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/eursport1.png" group-title="DEUTSCHLAND SKY SPORT",Eurosport 1 [B][COLORyellow]FHD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18851
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://ondemandvodstreaming.com/icons/eursport1.png" group-title="DEUTSCHLAND SKY SPORT",Eurosport 1 [B][COLORlime]HD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18852
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: Eurosport 2 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/Eurosport2HD.png" group-title="DEUTSCHLAND SKY SPORT",Eurosport 2 [B][COLORyellow]FHD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18853
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://ondemandvodstreaming.com/icons/Eurosport2HD.png" group-title="DEUTSCHLAND SKY SPORT",Eurosport 2 [B][COLORlime]HD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18854
-#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="DE: Eurosport 2 Xtra HD+" tvg-logo="http://ondemandvodstreaming.com/icons/Eurosport2HDXTR2A.png" group-title="DEUTSCHLAND SKY SPORT",Eurosport 2 Xtra [B][COLORyellow]FHD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18855
-#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="DE: Eurosport 2 Xtra HD" tvg-logo="http://ondemandvodstreaming.com/icons/Eurosport2HDXTR2A.png" group-title="DEUTSCHLAND SKY SPORT",Eurosport 2 Xtra [B][COLORlime]HD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18856
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: Eurosport 1 Deutschland" tvg-logo="http://ondemandvodstreaming.com/icons/eursport1.png" group-title="DEUTSCHLAND SKY SPORT",Eurosport 1 DE [B][COLORroyalblue]SD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18857
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sport1 HD+" tvg-logo="http://ondemandvodstreaming.com/icons/Sport1HD.png" group-title="DEUTSCHLAND SKY SPORT",Sport1 [B][COLORyellow]FHD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18860
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sport1 HD" tvg-logo="http://ondemandvodstreaming.com/icons/Sport1HD.png" group-title="DEUTSCHLAND SKY SPORT",Sport1 [B][COLORlime]HD[/COLOR][/B]
-http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18861
+
