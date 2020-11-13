@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ard.de" tvg-name="DE: Das Erste [B][COLORroyalblue]HD[/COLOR][/B]" tvg-logo="http://ondemandvodstreaming.com/icons/ARD.png" group-title="DEUTSCHLAND HD & FHD PLUS",Das Erste [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18595
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3 sat HD" tvg-logo="http://ondemandvodstreaming.com:80/icons/3sat.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: 3 sat HD
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3 sat HD" tvg-logo="http://ondemandvodstreaming.com:80/icons/3sat.png" group-title="DEUTSCHLAND HD & FHD PLUS",3 sat [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18604
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: arte HD" tvg-logo="http://ondemandvodstreaming.com/icons/artehd.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: arte HD
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: arte HD" tvg-logo="http://ondemandvodstreaming.com/icons/artehd.png" group-title="DEUTSCHLAND HD & FHD PLUS",arte [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18650
-#EXTINF:-1 tvg-id="mdr.de" tvg-name="DE: MDR" tvg-logo="http://ondemandvodstreaming.com/icons/mdr.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: MDR
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="DE: MDR" tvg-logo="http://ondemandvodstreaming.com/icons/mdr.png" group-title="DEUTSCHLAND HD & FHD PLUS",MDR [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18599
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE: NDR HD" tvg-logo="http://ondemandvodstreaming.com/icons/ndr.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: NDR HD
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE: NDR HD" tvg-logo="http://ondemandvodstreaming.com/icons/ndr.png" group-title="DEUTSCHLAND HD & FHD PLUS",NDR [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18600
-#EXTINF:-1 tvg-id="one.de" tvg-name="DE: ONE" tvg-logo="http://ondemandvodstreaming.com/icons/ONEHD.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: ONE
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE: ONE" tvg-logo="http://ondemandvodstreaming.com/icons/ONEHD.png" group-title="DEUTSCHLAND HD & FHD PLUS",ONE [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18603
-#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: Romance TV" tvg-logo="http://ondemandvodstreaming.com/icons/romancehd.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: Romance TV
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: Romance TV" tvg-logo="http://ondemandvodstreaming.com/icons/romancehd.png" group-title="DEUTSCHLAND HD & FHD PLUS",Romance TV [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18658
-#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="DE: Heimatkanal" tvg-logo="http://ondemandvodstreaming.com/icons/heimat.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: Heimatkanal
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="DE: Heimatkanal" tvg-logo="http://ondemandvodstreaming.com/icons/heimat.png" group-title="DEUTSCHLAND HD & FHD PLUS",Heimatkanal [B][COLORroyalblue]SD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18654
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="http://ondemandvodstreaming.com/icons/tele5.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: TELE 5 HD
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="http://ondemandvodstreaming.com/icons/tele5.png" group-title="DEUTSCHLAND HD & FHD PLUS",TELE 5 [B][COLORlime]HD[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18661
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE: TELE 5 HEVC" tvg-logo="http://ondemandvodstreaming.com/icons/tele5.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: TELE 5 HEVC
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE: TELE 5 HEVC" tvg-logo="http://ondemandvodstreaming.com/icons/tele5.png" group-title="DEUTSCHLAND HD & FHD PLUS",TELE 5 [B][COLORorange]HDS[/COLOR][/B]
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/112639
 #EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="DE: SAT 1 Emotions" tvg-logo="http://ondemandvodstreaming.com/icons/SATGOLD.png" group-title="DEUTSCHLAND HD & FHD PLUS",DE: SAT 1 Emotions
 http://maestro-personal.redirectme.net:80/PbeeRwMd8K/GvP53FN4Ys/18626
