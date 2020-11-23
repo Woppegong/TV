@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Navy CIS S01 E01" tvg-logo="" group-title="AMAZON PRIME",-------------------[B][COLORorange]Navy CIS[/COLOR][/B]-------------------
-http://ueberschrift-navicis.mkv
+http://ueberschrift.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Navy CIS S01 E01" tvg-logo="http://tigermaestrovodstreaming.ddns.net:80/images/cb8e399394e62576286ec91aa8f6cea0.jpg" group-title="AMAZON PRIME",Navy CIS S01 E01
 http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/140430.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Navy CIS S01 E02" tvg-logo="http://tigermaestrovodstreaming.ddns.net:80/images/42ca0d7ff96f9d3fc6de0d8700147589.jpg" group-title="AMAZON PRIME",Navy CIS S01 E02
@@ -779,6 +779,8 @@ http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/141361.mk
 http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/141362.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Navy CIS S17 E16" tvg-logo="http://tigermaestrovodstreaming.ddns.net:80/images/8db43192040ba97e746d9f50ca79cfad.jpg" group-title="AMAZON PRIME",Navy CIS S17 E16
 http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/141363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navy CIS S01 E01" tvg-logo="" group-title="AMAZON PRIME",-------------------[B][COLORorange]Law & Order[/COLOR][/B]-------------------
+http://ueberschrift.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Law & Order S01 E01" tvg-logo="http://tigermaestrovodstreaming.ddns.net:80/images/752341db9e549fff778d67143af6954e.jpg" group-title="SERIEN TV L-M",Law & Order S01 E01
 http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/133632.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Law & Order S01 E02" tvg-logo="http://tigermaestrovodstreaming.ddns.net:80/images/6375e9a5c212da1f88de4e876d75edc0.jpg" group-title="SERIEN TV L-M",Law & Order S01 E02
@@ -1691,6 +1693,8 @@ http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/134161.mk
 http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/134162.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Law & Order S20 E23" tvg-logo="http://tigermaestrovodstreaming.ddns.net:80/images/0df4c8119fc26546bc8cec1be27c9956.jpg" group-title="SERIEN TV L-M",Law & Order S20 E23
 http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/134163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navy CIS S01 E01" tvg-logo="" group-title="AMAZON PRIME",-------------------[B][COLORorange]Criminal Minds[/COLOR][/B]-------------------
+http://ueberschrift.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Criminal Minds S01 E01" tvg-logo="http://tigermaestrovodstreaming.ddns.net:80/images/1f7122058f94b983446645f59c1ecc93.jpg" group-title="SERIEN TV C-D",Criminal Minds S01 E01
 http://maestro-personal.redirectme.net:80/series/PbeeRwMd8K/GvP53FN4Ys/134164.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Criminal Minds S01 E02" tvg-logo="http://tigermaestrovodstreaming.ddns.net:80/images/bbf90412fd526c52fca448ade3c4259e.jpg" group-title="SERIEN TV C-D",Criminal Minds S01 E02
