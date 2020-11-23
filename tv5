@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.twins-hairstyle.de/wp-content/uploads/2019/01/RTL-Logo.png", RTL [B][COLORroyalblue]SD[/COLOR][/B]
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE:: RTL" tvg-logo="https://www.twins-hairstyle.de/wp-content/uploads/2019/01/RTL-Logo.png", RTL [B][COLORroyalblue]SD[/COLOR][/B]
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/e60793f3206129e.ts|User-Agent=1m3u8
 #EXTINF:-1, tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/42778-1-0-19-EF15-421-1-C00000-0-0-0-png/" RTL 2 [B][COLORroyalblue]SD[/COLOR][/B]
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/e1172cb3a0068e2.ts|User-Agent=1m3u8
