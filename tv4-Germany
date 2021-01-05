@@ -9,223 +9,161 @@ http://
 http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl Programm Guide / EPG Daten 
 http://
-#EXTINF:-1,[DE] ZDF 
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5671
-#EXTINF:-1,[DE] ZDF SD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/6234
-#EXTINF:-1,[DE] Das Erste SD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/6233
-#EXTINF:-1,[DE] DAS ERST 
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5670
-#EXTINF:-1,[DE] RTL HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5669
-#EXTINF:-1,[DE] RTL 2HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5668
-#EXTINF:-1,[DE] RTL NITRO HD 
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5667
-#EXTINF:-1,[DE] SIXX HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5666
-#EXTINF:-1,[DE] Eurosport 2 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5665
-#EXTINF:-1,[DE] KABEL 1 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5664
-#EXTINF:-1,[DE] ProSieben HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5663
-#EXTINF:-1,[DE] E! ENTERTAINMENT HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5662
-#EXTINF:-1,[DE]  UNIVIRSAL HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5661
-#EXTINF:-1,[DE] AXN HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5660
-#EXTINF:-1,[DE] 13th STREET HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5659
-#EXTINF:-1,[DE] ORF 1 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5658
-#EXTINF:-1,[DE] ORF 2 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5657
-#EXTINF:-1,[DE] ORF 3 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5656
-#EXTINF:-1,[DE] SKY CINEMA HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5654
-#EXTINF:-1,[DE] SKY CINEMA  1HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5653
-#EXTINF:-1,[DE] SKY CINEMA  24 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5652
-#EXTINF:-1,[DE] SKY CINEMA FAMILY HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5651
-#EXTINF:-1,[DE] SKY CINEMA HITS HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5650
-#EXTINF:-1,[DE] SKY COMEDY HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5649
-#EXTINF:-1,[DE] SKY DMAX HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5648
-#EXTINF:-1,[DE] SKY EMOTION HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5647
-#EXTINF:-1,[DE] SKY KRIMI HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5646
-#EXTINF:-1,[DE] SKY NOSTALGIE HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5645
-#EXTINF:-1,[DE] SKY SPORT 1 SD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5643
-#EXTINF:-1,[DE] SKY SPORT 2 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5642
-#EXTINF:-1,[DE] SKY BUNDESLIGA 1HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5641
-#EXTINF:-1,[DE] SKY SPORT NEWS HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5640
-#EXTINF:-1,[DE] DISCOVERY CHANNEL HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5639
-#EXTINF:-1,[DE] NATIONAL GEO Wild  HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5638
-#EXTINF:-1,|DE| NATIONAL GEO HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5637
-#EXTINF:-1,[DE] Nick HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5635
-#EXTINF:-1,[DE] NICK JR HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5634
-#EXTINF:-1,[DE] CARTON NETWORK HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5631
-#EXTINF:-1,[DE] DISNEY XD HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5633
-#EXTINF:-1,[DE] DISNEY CHANNEL HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5632
-#EXTINF:-1,[DE] BOOMERANG .HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/5630
-#EXTINF:-1,[DE] ROMANCE TV HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/326
-#EXTINF:-1,[DE] ZDF
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/290
-#EXTINF:-1,[DE] SKY CINEMA 1+
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1390
-#EXTINF:-1,[DE] SKY CINIMA HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1391
-#EXTINF:-1,[DE] SKY CINIMA 24HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1392
-#EXTINF:-1,[DE] SKY CINIMA HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1393
-#EXTINF:-1,[DE] SKY CINIMA COMEDY HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1394
-#EXTINF:-1,[DE] SKY CINIMA EMOTION HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1395
-#EXTINF:-1,[DE] FOX HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1566
-#EXTINF:-1,[DE] SKY CINIMA HITS HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1396
-#EXTINF:-1,[DE] SKY  KRIMI HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1397
-#EXTINF:-1,[DE] SKY ATLANTIC HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2020
-#EXTINF:-1,[DE] TNT SERIE HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2074
-#EXTINF:-1,[DE] DISNEY .JUNIOR HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2076
-#EXTINF:-1,[DE] RTL CRIME HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2075
-#EXTINF:-1,[DE] PROSIEBEN HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2073
-#EXTINF:-1,[DE] TNT FILM HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2072
-#EXTINF:-1,[DE] ARTE HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/433
-#EXTINF:-1,[DE] DMAX HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/437
-#EXTINF:-1,[DE] DISCOVERY SCI HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/110
-#EXTINF:-1,[DE] DISCOVERY HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/432
-#EXTINF:-1,|DE| NAT GEO HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/434
-#EXTINF:-1,[DE] NAT GEO WILD HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/435
-#EXTINF:-1,[DE] HISTORY HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/436
-#EXTINF:-1,[DE] ORF 1 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/438
-#EXTINF:-1,[DE] ORF 2 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/439
-#EXTINF:-1,[DE] PROSIEBEN Maxx HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/440
-#EXTINF:-1,[DE] 13TH STREET HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/441
-#EXTINF:-1,[DE] SKY SPORT 1 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1401
-#EXTINF:-1,[DE] SKY SPORT 2 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1402
-#EXTINF:-1,[DE] SKY SPORT 3 HD [ ONLY ON MATCHDAY ]
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1403
-#EXTINF:-1,[DE] SKY BUNDESLIGA 2HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1404
-#EXTINF:-1,[DE] TELEKOM DEL SPORT  1 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/182
-#EXTINF:-1,[DE] Disney Cine Magic
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3032
-#EXTINF:-1,[DE] SKY BUNDESLIGA 2HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3031
-#EXTINF:-1,[DE] SKY BUNDESLIGA 3HD (ONLY ON MATCH DAY)
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3030
-#EXTINF:-1,[DE] SKY BUNDESLIGA 4HD (ONLY ON MATCH DAY)
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3029
-#EXTINF:-1,[DE] SKY BUNDESLIGA 5HD (ONLY ON MATCH DAY)
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3028
-#EXTINF:-1,[DE] SKY BUNDESLIGA 6HD (ONLY ON MATCH DAY)
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3027
-#EXTINF:-1,[DE] SKY BUNDESLIGA 7HD (ONLY ON MATCH DAY)
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3026
-#EXTINF:-1,[DE] SKY BUNDESLIGA 8HD (ONLY ON MATCH DAY)
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3025
-#EXTINF:-1,[DE] SKY BUNDESLIGA 9HD (ONLY ON MATCH DAY)
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3024
-#EXTINF:-1,[DE] SKY BUNDESLIGA 10HD (ONLY ON MATCH DAY)
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/3023
-#EXTINF:-1,[DE] SKY SELECT  HD1
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/920
-#EXTINF:-1,[DE] SKY SELECT  HD2
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/921
-#EXTINF:-1,[DE] SKY SELECT  HD3
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/922
-#EXTINF:-1,[DE] SKY SELECT  HD4
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/923
-#EXTINF:-1,[DE] SKY SELECT  HD5
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/924
-#EXTINF:-1,[DE] SKY SELECT  HD6
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/925
-#EXTINF:-1,[DE] SKY SELECT  HD7
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/926
-#EXTINF:-1,[DE] SKY SELECT  HD8
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/927
-#EXTINF:-1,[DE] SKY SELECT  HD9
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/928
-#EXTINF:-1,[DE] SKY SELECT  HD10
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/929
-#EXTINF:-1,[DE] ANIXE SD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/286
-#EXTINF:-1,[DE] ANIXE HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/243
-#EXTINF:-1,[DE] HEIMATKANAL HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/291
-#EXTINF:-1,[DE] TELEKOM DEL SPORT  2 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/254
-#EXTINF:-1,[DE] CLASSICA HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/268
-#EXTINF:-1,[DE] RTL HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/236
-#EXTINF:-1,[DE] VOX HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2085
-#EXTINF:-1,[DE] KIKA HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2084
-#EXTINF:-1,[DE] SUPER RTL HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2081
-#EXTINF:-1,[DE] Disney Cinemagic HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/2080
-#EXTINF:-1,[DE] RTL 2HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/1462
-#EXTINF:-1,[DE] SAT 1 GOLD HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/269
-#EXTINF:-1,[DE] KABEL EINS  DOKU HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/258
-#EXTINF:-1,[DE] KINOWELT HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/297
-#EXTINF:-1,[DE] N-TV HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/323
-#EXTINF:-1,[DE] Eurosport 1 HD
-http://world-ott.com:8080/srhd1CAh5x/qBw7lbzEE4/246
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3451
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/22824
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16493
+#EXTINF:-1 tvg-id="One.de" tvg-name="One FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onehd.jpg" group-title="Live: Germany",One FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/15751
+#EXTINF:-1 tvg-id="One.de" tvg-name="One TV FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onetvde.jpg" group-title="Live: Germany",One TV FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/23043
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/1629
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/19098
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16484
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12295
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfohd.jpg" group-title="Live: Germany",ZDFinfo FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16483
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneo.jpg" group-title="Live: Germany",ZDFneo DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3453
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneohd.jpg" group-title="Live: Germany",ZDFneo FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16482
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel Eins FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinshd.jpg" group-title="Live: Germany",Kabel Eins FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/1649
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="Live: Germany",Kabel Eins Classics DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16581
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Germany",Kabel Eins Doku DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/17167
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenfunhd.jpg" group-title="Live: Germany",ProSieben Fun HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16627
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="Live: Germany",ProSieben Maxx DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3444
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxxhd.jpg" group-title="Live: Germany",ProSieben Maxx FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14051
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehd.jpg" group-title="Live: Germany",RTL Crime HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/15570
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3202
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Germany",NITRO DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/1639
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitrohd.jpg" group-title="Live: Germany",NITRO FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14048
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlpassion.jpg" group-title="Live: Germany",RTL Passion HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/9563
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="Live: Germany",RTL Plus DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/19655
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3826
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2hd.jpg" group-title="Live: Germany",RTL II FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14050
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/27220
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/1637
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14047
+#EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="SAT.1 Emotions DE" tvg-logo="https://picon-13398.kxcdn.com/sat1emotions.jpg" group-title="Live: Germany",SAT.1 Emotions DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16836
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12309
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Germany",Sixx DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/9560
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="Live: Germany",Sixx FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14046
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12325
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/20208
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3443
+#EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16488
+#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Berlin FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbberlinhd.jpg" group-title="Live: Germany",rbb Fernsehen Berlin FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/15747
+#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Brandenburg FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbbrandenburg.jpg" group-title="Live: Germany",rbb Fernsehen Brandenburg FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/15754
+#EXTINF:-1 tvg-id="RegioTV.de" tvg-name="Regio TV DE" tvg-logo="https://picon-13398.kxcdn.com/regiotv.jpg" group-title="Live: Germany",Regio TV DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12328
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen FHD DE" tvg-logo="https://picon-13398.kxcdn.com/srfernsehenhd.jpg" group-title="Live: Germany",SR Fernsehen FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/15749
+#EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://picon-13398.kxcdn.com/swr.jpg" group-title="Live: Germany",SWR DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12296
+#EXTINF:-1 tvg-id="" tvg-name="SWR BW FHD DE" tvg-logo="https://picon-13398.kxcdn.com/swrhd.jpg" group-title="Live: Germany",SWR BW FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16486
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3442
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Baby TV DE" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Germany",Baby TV DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/19622
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang DE" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: Germany",Boomerang DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12315
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network DE" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Germany",Cartoon Network DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/15565
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Germany",Disney Channel DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3622
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Germany",Disney Channel FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14056
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD DE" tvg-logo="https://picon-13398.kxcdn.com/disneyjnrhd.jpg" group-title="Live: Germany",Disney Junior HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/15566
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Germany",Nickelodeon DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/19100
+#EXTINF:-1 tvg-id="nickMTV.de" tvg-name="Nick/MTV+ DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Live: Germany",Nick/MTV+ DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14571
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3456
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL FHD DE" tvg-logo="https://picon-13398.kxcdn.com/superrtlhd.jpg" group-title="Live: Germany",Super RTL FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14044
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus DE" tvg-logo="https://picon-13398.kxcdn.com/toggoplus.jpg" group-title="Live: Germany",TOGGO plus DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12323
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/9561
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3445
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE FHD DE" tvg-logo="https://picon-13398.kxcdn.com/anixehd.jpg" group-title="Live: Germany",ANIXE FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14576
+#EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="Crime + Investigation DE" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Live: Germany",Crime + Investigation DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/28577
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3426
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3431
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12317
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/19677
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Premieren DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/1634
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaclassicsde.jpg" group-title="Live: Germany",Sky Cinema Classics DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/9556
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/11265
+#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 9 Live DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/12290
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Dark Future DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Dark Future DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/28535
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://picon-13398.kxcdn.com/13thstreethd.jpg" group-title="Live: Germany",13th Street FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14060
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! DE" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Germany",E! DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/16502
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! HD DE" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg" group-title="Live: Germany",E! HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/15567
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/3425
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14055
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tntseriehd.jpg" group-title="Live: Germany",TNT Serie FHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/14303
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/18234
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 1 Premiere HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/26323
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 9 Sci-Fi HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 9 Sci-Fi HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/26331
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/26332
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
+http://85.203.33.88:80/GDeminer/ffO5TA321/26333
