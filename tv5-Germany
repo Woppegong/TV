@@ -1,13 +1,7 @@
 #EXTM3U:
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
 http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Alle Info's auf Telegram *** https://ogy.de/77q6 ***
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",48 Std Test unserer kompletten "Topline" auf Anfrage ! 
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl ca 12.500 Filme + 1.500 Serien in vielen Sprachen
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl Programm Guide / EPG Daten 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's gibt's hier *** https://ogy.de/yxzw ***
 http://
 #EXTINF:-1,Das Erste DE
 http://cloudcdn.tk:80/NicoAngel/8urX0S848/3451
@@ -149,3 +143,4 @@ http://cloudcdn.tk:80/NicoAngel/8urX0S848/37836
 http://cloudcdn.tk:80/NicoAngel/8urX0S848/52134
 #EXTINF:-1,QVC UHD DE
 http://cloudcdn.tk:80/NicoAngel/8urX0S848/66354
+
