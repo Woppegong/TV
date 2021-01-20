@@ -1,7 +1,7 @@
 #EXTM3U:
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
 http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Info's auf Telegram *** https://ogy.de/77q6 ***
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's gibt's hier *** https://ogy.de/yxzw ***
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
 http://channels227070.clientportal.link:80/KOmmK35853/q6KaK1498/3451
@@ -119,3 +119,4 @@ http://channels227070.clientportal.link:80/KOmmK35853/q6KaK1498/52134
 http://channels227070.clientportal.link:80/KOmmK35853/q6KaK1498/66354
 #EXTINF:-1 tvg-id="" tvg-name="Bon Gusto FHD DE" tvg-logo="" group-title="Live: Germany",Bon Gusto FHD DE
 http://channels227070.clientportal.link:80/KOmmK35853/q6KaK1498/70825
+
