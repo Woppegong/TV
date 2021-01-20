@@ -1,169 +1,243 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
 http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Alle Info's auf Telegram *** https://ogy.de/77q6 ***
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's gibt's hier *** https://ogy.de/yxzw ***
 http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",48 Std Test unserer kompletten "Topline" auf Anfrage ! 
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl ca 12.500 Filme + 1.500 Serien in vielen Sprachen
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl Programm Guide / EPG Daten 
-http://
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3451
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/22824
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16493
-#EXTINF:-1 tvg-id="One.de" tvg-name="One FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onehd.jpg" group-title="Live: Germany",One FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/15751
-#EXTINF:-1 tvg-id="One.de" tvg-name="One TV FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onetvde.jpg" group-title="Live: Germany",One TV FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/23043
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/1629
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/19098
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16484
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12295
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfohd.jpg" group-title="Live: Germany",ZDFinfo FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16483
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneo.jpg" group-title="Live: Germany",ZDFneo DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3453
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneohd.jpg" group-title="Live: Germany",ZDFneo FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16482
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel Eins FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinshd.jpg" group-title="Live: Germany",Kabel Eins FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/1649
-#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="Live: Germany",Kabel Eins Classics DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16581
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Germany",Kabel Eins Doku DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/17167
-#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenfunhd.jpg" group-title="Live: Germany",ProSieben Fun HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16627
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="Live: Germany",ProSieben Maxx DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3444
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxxhd.jpg" group-title="Live: Germany",ProSieben Maxx FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14051
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehd.jpg" group-title="Live: Germany",RTL Crime HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/15570
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3202
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Germany",NITRO DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/1639
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitrohd.jpg" group-title="Live: Germany",NITRO FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14048
-#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlpassion.jpg" group-title="Live: Germany",RTL Passion HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/9563
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="Live: Germany",RTL Plus DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/19655
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3826
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2hd.jpg" group-title="Live: Germany",RTL II FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14050
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/27220
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/1637
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14047
-#EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="SAT.1 Emotions DE" tvg-logo="https://picon-13398.kxcdn.com/sat1emotions.jpg" group-title="Live: Germany",SAT.1 Emotions DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16836
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12309
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Germany",Sixx DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/9560
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="Live: Germany",Sixx FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14046
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12325
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/20208
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3443
-#EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16488
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Berlin FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbberlinhd.jpg" group-title="Live: Germany",rbb Fernsehen Berlin FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/15747
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Brandenburg FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbbrandenburg.jpg" group-title="Live: Germany",rbb Fernsehen Brandenburg FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/15754
-#EXTINF:-1 tvg-id="RegioTV.de" tvg-name="Regio TV DE" tvg-logo="https://picon-13398.kxcdn.com/regiotv.jpg" group-title="Live: Germany",Regio TV DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12328
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen FHD DE" tvg-logo="https://picon-13398.kxcdn.com/srfernsehenhd.jpg" group-title="Live: Germany",SR Fernsehen FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/15749
-#EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://picon-13398.kxcdn.com/swr.jpg" group-title="Live: Germany",SWR DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12296
-#EXTINF:-1 tvg-id="" tvg-name="SWR BW FHD DE" tvg-logo="https://picon-13398.kxcdn.com/swrhd.jpg" group-title="Live: Germany",SWR BW FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16486
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3442
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Baby TV DE" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Germany",Baby TV DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/19622
-#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang DE" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: Germany",Boomerang DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12315
-#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network DE" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Germany",Cartoon Network DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/15565
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Germany",Disney Channel DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3622
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Germany",Disney Channel FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14056
-#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD DE" tvg-logo="https://picon-13398.kxcdn.com/disneyjnrhd.jpg" group-title="Live: Germany",Disney Junior HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/15566
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Germany",Nickelodeon DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/19100
-#EXTINF:-1 tvg-id="nickMTV.de" tvg-name="Nick/MTV+ DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Live: Germany",Nick/MTV+ DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14571
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3456
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL FHD DE" tvg-logo="https://picon-13398.kxcdn.com/superrtlhd.jpg" group-title="Live: Germany",Super RTL FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14044
-#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus DE" tvg-logo="https://picon-13398.kxcdn.com/toggoplus.jpg" group-title="Live: Germany",TOGGO plus DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12323
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/9561
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3445
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE FHD DE" tvg-logo="https://picon-13398.kxcdn.com/anixehd.jpg" group-title="Live: Germany",ANIXE FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14576
-#EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="Crime + Investigation DE" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Live: Germany",Crime + Investigation DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/28577
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3426
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3431
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12317
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/19677
-#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Premieren DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/1634
-#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaclassicsde.jpg" group-title="Live: Germany",Sky Cinema Classics DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/9556
-#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/11265
-#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 9 Live DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/12290
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Dark Future DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Dark Future DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/28535
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://picon-13398.kxcdn.com/13thstreethd.jpg" group-title="Live: Germany",13th Street FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14060
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! DE" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Germany",E! DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/16502
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! HD DE" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg" group-title="Live: Germany",E! HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/15567
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/3425
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14055
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tntseriehd.jpg" group-title="Live: Germany",TNT Serie FHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/14303
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/18234
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 1 Premiere HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/26323
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 9 Sci-Fi HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 9 Sci-Fi HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/26331
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/26332
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
-http://85.203.33.88:80/GDeminer/ffO5TA321/26333
+#EXTINF:-1,DE: Das Erste HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202782
+#EXTINF:-1,DE: ZDF FHD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202783
+#EXTINF:-1,DE: ZDFinfo HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202784
+#EXTINF:-1,DE: ZDFneo HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202785
+#EXTINF:-1,DE: RTL HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202789
+#EXTINF:-1,DE: RTL 2 HD+
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202792
+#EXTINF:-1,DE: RTL 2 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/20279
+#EXTINF:-1,DE: Sat 1 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202798
+#EXTINF:-1,DE: Kabel 1 HD+
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202800
+#EXTINF:-1,DE: Pro 7 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202807
+#EXTINF:-1,DE: Pro 7 Fun
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202809
+#EXTINF:-1,DE: NITRO HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202816
+#EXTINF:-1,DE: Phoenix
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202817
+#EXTINF:-1,DE: Romance TV
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202818
+#EXTINF:-1,DE: RTL Crime
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202819
+#EXTINF:-1,DE: RTL Living
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202820
+#EXTINF:-1,DE: SAT 1 Gold HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202825
+#EXTINF:-1,DE: SIXX HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202833
+#EXTINF:-1,DE: Sixx HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202834
+#EXTINF:-1,DE: Comedy Central HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202837
+#EXTINF:-1,DE: Tagesschau 24
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202839
+#EXTINF:-1,DE: TELE 5 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202840
+#EXTINF:-1,DE: TELE 5 HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202841
+#EXTINF:-1,DE: TLC HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202842
+#EXTINF:-1,DE: TLC HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202843
+#EXTINF:-1,DE:: WDR HD Aachen
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202849
+#EXTINF:-1,DE: Heimatkanal
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202856
+#EXTINF:-1,DE: HR
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202857
+#EXTINF:-1,DE: MDR
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202858
+#EXTINF:-1,DE: NDR HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202859
+#EXTINF:-1,DE: PULS 24
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202867
+#EXTINF:-1,DE: PULS 4 Austria
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202868
+#EXTINF:-1,DE: ORF 2 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202871
+#EXTINF:-1,DE: ATV HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202882
+#EXTINF:-1,DE: SAT.1 HD RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202891
+#EXTINF:-1,DE: Pro7 MAXX HD RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202901
+#EXTINF:-1,DE: 13th Street HD RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202902
+#EXTINF:-1,DE: Eurosport 1 HD RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202903
+#EXTINF:-1,DE: Fox HD RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202906
+#EXTINF:-1,DE: Sky Cinema Family HD RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202913
+#EXTINF:-1,DE: TNT Comedy HD RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202918
+#EXTINF:-1,DE: Disney Channel HD RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202921
+#EXTINF:-1,DE:: Sky Sport 11 RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202927
+#EXTINF:-1,Sky Sport 2 RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202933
+#EXTINF:-1,Sky Sport Bundesliga 1 RAW
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202934
+#EXTINF:-1,DE: Sky Cinema Family HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202951
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202952
+#EXTINF:-1,DE: Sky Cinema Family
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202953
+#EXTINF:-1,DE: Sky Cinema Fun
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202959
+#EXTINF:-1,DE: Sky Cinema Emotion / Serien Shows  HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202960
+#EXTINF:-1,DE: Sky Krimi HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202971
+#EXTINF:-1,DE: TNT Comedy HD+
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202972
+#EXTINF:-1,DE: TNT Comedy HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202973
+#EXTINF:-1,DE: Fox HD+
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202978
+#EXTINF:-1,DE: Fox HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202979
+#EXTINF:-1,DE: 13th Street HD+
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202980
+#EXTINF:-1,DE: Kinowelt TV
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202986
+#EXTINF:-1,DE: Cinedome Action
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202987
+#EXTINF:-1,DE: Cinedome Comedy
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202990
+#EXTINF:-1,DE: Cinedome Familie
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202991
+#EXTINF:-1,DE: Cinedome Hits
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/202992
+#EXTINF:-1,DE: Disney Channel HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203104
+#EXTINF:-1,DE: Disney Channel HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203105
+#EXTINF:-1,DE: KiKa HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203110
+#EXTINF:-1,DE: KiKA HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203111
+#EXTINF:-1,DE: Super RTL HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203116
+#EXTINF:-1,DE: N-tv HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203122
+#EXTINF:-1,DE: n-tv HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203123
+#EXTINF:-1,DE: Kabel Eins Doku HD+
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203124
+#EXTINF:-1,DE: Kabel Eins Doku HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203125
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203134
+#EXTINF:-1,DE: Discovery HD+
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203135
+#EXTINF:-1,DE: Dmax HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203143
+#EXTINF:-1,DE: DMAX Austria
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203144
+#EXTINF:-1,DE: Welt HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203145
+#EXTINF:-1,DE: Welt der Wunder
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203146
+#EXTINF:-1,DE: Crime Investigation
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203147
+#EXTINF:-1,DE: Animal Planet
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203148
+#EXTINF:-1,DE: ANIXE
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203149
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203150
+#EXTINF:-1,DE: Spiegel Geschichte HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203151
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203152
+#EXTINF:-1,DE: HGTV
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203153
+#EXTINF:-1,Ăber Grenzen: Der Film einer langen Reise (2019)
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203154
+#EXTINF:-1,Der Wald der wilden Katzen
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203155
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203201
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 fhd
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203202
+#EXTINF:-1,DE: Sky Bundesliga 9 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203218
+#EXTINF:-1,DE: Eurosport 2 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203227
+#EXTINF:-1,DE: ORF SPORT
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203232
+#EXTINF:-1,DE: Sky Sport News HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203237
+#EXTINF:-1,DE: Sky Sport News HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203238
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203251
+#EXTINF:-1,DE: Sky Sport 11 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203267
+#EXTINF:-1,DE: Sky Sport Austria 3 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203275
+#EXTINF:-1,DE: Telekom   Sky SPORT KOMPAKT 2
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203281
+#EXTINF:-1,DE: Telekom   BBL Sport 2
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203285
+#EXTINF:-1,DE: Telekom   DEL Sport 2
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203289
+#EXTINF:-1,DE: Telekom 3 Bundesliga 2
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203296
+#EXTINF:-1,DE: Telekom   Frauen Bundesliga HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203303
+#EXTINF:-1,DE: Sky Select ProgrammĂźbersicht
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203308
+#EXTINF:-1,DE: Sky Select 1 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203309
+#EXTINF:-1,DE: MAX KINO COLLECTION
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203320
+#EXTINF:-1,DE: MAX SELECT 1 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203321
+#EXTINF:-1,DE: HyperCinema INFO
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203331
+#EXTINF:-1,DE: HyperCinema 1
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203332
+#EXTINF:-1,DE: MTV
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203346
+#EXTINF:-1,YOU FM
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203347
+#EXTINF:-1,YOU FM Club
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203348
+#EXTINF:-1,YOU FM Just Music
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203349
+#EXTINF:-1,YOU FM Sounds
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/203350
+#EXTINF:-1,CH: RSI LA 2 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/192847
+#EXTINF:-1,CH: RSI LA 2 HEVC
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/192848
+#EXTINF:-1,CH: SRF zwei FHD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/192855
+#EXTINF:-1,CH: SRF info HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/192853
+#EXTINF:-1,CH: My Sport 2 FHD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/193303
+#EXTINF:-1,CH: TELECLUB SPORT 2 HD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/192818
+#EXTINF:-1,CH: RTL 2
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/193312
+#EXTINF:-1,CH: Tele Zuri FHD
+http://superbest.faststream.link:8080/574lTqWJae/daAA3cfrtM/192858
