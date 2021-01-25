@@ -1,203 +1,259 @@
 #EXTM3U:
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3451
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/22824
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/1629
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/19098
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/16484
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/12295
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfohd.jpg" group-title="Live: Germany",ZDFinfo FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/16483
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku HD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Germany",Kabel Eins Doku HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/17167
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben DE" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Germany",ProSieben DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/1642
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="Live: Germany",ProSieben Maxx DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3444
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3825
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14049
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3202
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="Live: Germany",RTL Plus DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/19655
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3826
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2hd.jpg" group-title="Live: Germany",RTL II FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14050
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/27220
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/12309
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Germany",Sixx DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/9560
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="Live: Germany",Sixx FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14046
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/1630
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://picon-13398.kxcdn.com/3sat.jpg" group-title="Live: Germany",3sat DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/12341
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="https://picon-13398.kxcdn.com/3sathd.jpg" group-title="Live: Germany",3sat HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/16497
-#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte FHD DE" tvg-logo="https://picon-13398.kxcdn.com/artehd.jpg" group-title="Live: Germany",Arte FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/16496
-#EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/16488
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Berlin FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbberlinhd.jpg" group-title="Live: Germany",rbb Fernsehen Berlin FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/15747
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Brandenburg FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbbrandenburg.jpg" group-title="Live: Germany",rbb Fernsehen Brandenburg FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/15754
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Baby TV DE" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Germany",Baby TV DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/19622
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Germany",Disney Channel DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3622
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://picon-13398.kxcdn.com/kika.jpg" group-title="Live: Germany",KiKa DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/1648
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kikahd.jpg" group-title="Live: Germany",KiKA FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/16492
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3456
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/15568
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14577
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/7337
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14550
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10hd.jpg" group-title="Live: Germany",Sky Bundesliga 10 FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/7347
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14560
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/1480
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/7327
-#EXTINF:-1 tvg-id="SkySport11.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport11hd.jpg" group-title="Live: Germany",Sky Sport 11 HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/7336
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3841
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/9561
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3445
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3426
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3431
-#EXTINF:-1 tvg-id="History.de" tvg-name="History DE" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: Germany",History DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3424
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="Live: Germany",n-tv DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3449
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ntvhd.jpg" group-title="Live: Germany",n-tv FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14054
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tagesschau24hd.jpg" group-title="Live: Germany",tagesschau24 FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/15752
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3448
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt HD DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14573
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Germany",Welt der Wunder DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/12305
-#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="Live: Germany",CLASSICA DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/9555
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusic.jpg" group-title="Live: Germany",Deluxe Music DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/9554
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV HD DE" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Live: Germany",MTV HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/15759
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/12317
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/19677
-#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Premieren DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/1634
-#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="Live: Germany",Sky Cinema Fun DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3430
-#EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Germany",Sky Family FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/15576
-#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/11265
-#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 9 Live DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/12290
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://picon-13398.kxcdn.com/13thstreethd.jpg" group-title="Live: Germany",13th Street FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/14060
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/3425
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/18234
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/26332
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/26333
-#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="Live: Germany",Frauen Bundesliga HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/35184
-#EXTINF:-1 tvg-id="" tvg-name="Voxup DE" tvg-logo="https://picon-13398.kxcdn.com/voxupde.jpg" group-title="Live: Germany",Voxup DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/52134
-#EXTINF:-1 tvg-id="" tvg-name="QVC UHD DE" tvg-logo="" group-title="Live: Germany",QVC UHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/66354
-#EXTINF:-1 tvg-id="" tvg-name="Bon Gusto FHD DE" tvg-logo="" group-title="Live: Germany",Bon Gusto FHD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/70825
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf3hd.jpg" group-title="Live: Austria",ORF III HD AT
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/16388
-#EXTINF:-1 tvg-id="ORFSport.at" tvg-name="ORF Sport Plus HD AT" tvg-logo="https://picon-13398.kxcdn.com/orfsportplushd.jpg" group-title="Live: Austria",ORF Sport Plus HD AT
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/16387
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 AT" tvg-logo="https://picon-13398.kxcdn.com/skysportaustria.jpg" group-title="Live: Austria",Sky Sport Austria 1 AT
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/9551
-#EXTINF:-1 tvg-id="" tvg-name="Puls 24 FHD AT" tvg-logo="" group-title="Live: Austria",Puls 24 FHD AT
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/66355
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="Live: Germany",Telekom Fussball 2 HD DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/24232
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 2 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="Live: Germany",Telekom Del Sport 2 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/28382
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport BBL 2 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/telecomsportbblde.jpg" group-title="Live: Germany",Telekom Sport BBL 2 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/28378
-#EXTINF:-1 tvg-id="SkySportAustria2.at" tvg-name="Sky Sport Austria 2 AT" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Austria",Sky Sport Austria 2 AT
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/28532
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei HD CH" tvg-logo="https://picon-13398.kxcdn.com/srfzweihd.jpg" group-title="Live: Switzerland",SRF zwei HD CH
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/11645
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info HD CH" tvg-logo="https://picon-13398.kxcdn.com/srfinfohd.jpg" group-title="Live: Switzerland",SRF Info HD CH
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/11652
-#EXTINF:-1 tvg-id="" tvg-name="MySports FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports FHD CH
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/17483
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="Blue Sport 2 CH" tvg-logo="https://picon-13398.kxcdn.com/bluesport2ch.jpg" group-title="Live: Switzerland",Blue Sport 2 CH
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/12475
-#EXTINF:-1 tvg-id="" tvg-name="Teleclub Sky Sport 2 CH" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Switzerland",Teleclub Sky Sport 2 CH
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/28581
-#EXTINF:-1 tvg-id="MySports2.ch" tvg-name="MySports 2 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 2 FHD French CH
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/17492
-#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA 2 HD CH" tvg-logo="https://picon-13398.kxcdn.com/rsila2.jpg" group-title="Live: Switzerland",RSI LA 2 HD CH
-http://cloudcdn.tk:80/CXh7JOj82/iY4crY1785/11651
-#EXTINF:-1 tvg-id="" tvg-name="Burning 3 Asphalt Burning [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4xfU5BUrdDeOgt3J6drQGNjfZk.jpg" group-title="Movie: German",Burning 3 Asphalt Burning [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71007.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Captive State [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVo7lylXAUDGuvDZBUYaP8Zjbku.jpg" group-title="Movie: German",Captive State [DE] [2019]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71008.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Das Neunte Opfer [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2Q9kkzkI5LGqP9K7ymmOc9CNRE.jpg" group-title="Movie: German",Das Neunte Opfer [DE] [2019]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Death To [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXYmzvnBNhGPrkH3CWr58sHeZKh.jpg" group-title="Movie: German",Death To [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Freaky [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg" group-title="Movie: German",Freaky [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="How it Ends [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prdFM08mGvVDA6uQxKJh8n8Vek1.jpg" group-title="Movie: German",How it Ends [DE] [2018]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71012.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Im Your Woman [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTcJAxIV8BzNXuvcViBSibQSBid.jpg" group-title="Movie: German",Im Your Woman [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71013.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jexi [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg" group-title="Movie: German",Jexi [DE] [2019]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kajillionaire [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL5wFTHonhxpye7lVCUx2r8fusy.jpg" group-title="Movie: German",Kajillionaire [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Belva Das Biest [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zbKISdp5UBgWY2a28dfJY8ouIK.jpg" group-title="Movie: German",La Belva Das Biest [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pieces of a Woman [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg" group-title="Movie: German",Pieces of a Woman [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Run Du Kannst ihr nicht Entkommen [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtDYMa2inpJjxq2DjELPXbtf02v.jpg" group-title="Movie: German",Run Du Kannst ihr nicht Entkommen [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Devil All The Time [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdMZmKVvrnyYbl9Az4L6ehuIrFp.jpg" group-title="Movie: German",The Devil All The Time [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tremors 7 Shrieker Island [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg" group-title="Movie: German",Tremors 7 Shrieker Island [DE] [2020]
-http://cloudcdn.tk:80/movie/CXh7JOj82/iY4crY1785/71020.mkv
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
+http://
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's zur TOPLINE gibt's hier *** https://ogy.de/yxzw ***
+http://
+#EXTINF:-1,Das Erste DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3451
+#EXTINF:-1,Das Erste HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/22824
+#EXTINF:-1,Das Erste FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16493
+#EXTINF:-1,ZDF DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1629
+#EXTINF:-1,ZDF HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19098
+#EXTINF:-1,ZDF FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16484
+#EXTINF:-1,ZDFinfo DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12295
+#EXTINF:-1,ZDFinfo FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16483
+#EXTINF:-1,ZDFneo DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3453
+#EXTINF:-1,ZDFneo FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16482
+#EXTINF:-1,Kabel Eins FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1649
+#EXTINF:-1,Kabel Eins Classics DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16581
+#EXTINF:-1,Kabel Eins Doku HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/17167
+#EXTINF:-1,ProSieben DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1642
+#EXTINF:-1,ProSieben HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14052
+#EXTINF:-1,ProSieben Fun HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16627
+#EXTINF:-1,ProSieben Maxx DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3444
+#EXTINF:-1,ProSieben Maxx FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14051
+#EXTINF:-1,RTL HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3825
+#EXTINF:-1,RTL Living HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3202
+#EXTINF:-1,NITRO DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1639
+#EXTINF:-1,RTL II DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3826
+#EXTINF:-1,RTL II FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14050
+#EXTINF:-1,RTL UHD 4K DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/27220
+#EXTINF:-1,SAT.1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1637
+#EXTINF:-1,Tele 5 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12325
+#EXTINF:-1,Tele 5 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/20208
+#EXTINF:-1,VOX DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1630
+#EXTINF:-1,hr-Fernsehen DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12316
+#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15750
+#EXTINF:-1,NDR HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3443
+#EXTINF:-1,Disney Channel DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3622
+#EXTINF:-1,Disney Channel FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14056
+#EXTINF:-1,Disney Junior HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15566
+#EXTINF:-1,Fix & Foxi DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/20263
+#EXTINF:-1,KiKa DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1648
+#EXTINF:-1,Super RTL DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3456
+#EXTINF:-1,Super RTL FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14044
+#EXTINF:-1,Eurosport 1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19101
+#EXTINF:-1,Eurosport 1 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3435
+#EXTINF:-1,Eurosport 2 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15568
+#EXTINF:-1,Sky Sport News DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14577
+#EXTINF:-1,Sky Sport News FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/7337
+#EXTINF:-1,Sky Bundesliga 1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14550
+#EXTINF:-1,Sky Bundesliga 10 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14558
+#EXTINF:-1,Sky Bundesliga 10 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/7347
+#EXTINF:-1,Sky Sport 1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14559
+#EXTINF:-1,Sky Sport 1 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1479
+#EXTINF:-1,Sky Sport 2 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14560
+#EXTINF:-1,Sky Sport 2 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1480
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/7327
+#EXTINF:-1,Sky Sport 11 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/7336
+#EXTINF:-1,SPORT1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/9552
+#EXTINF:-1,SPORT1 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15745
+#EXTINF:-1,eSports1 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/18820
+#EXTINF:-1,ANIXE DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3445
+#EXTINF:-1,ANIXE FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14576
+#EXTINF:-1,Crime + Investigation DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28577
+#EXTINF:-1,Discovery Channel DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3426
+#EXTINF:-1,Discovery Channel FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14063
+#EXTINF:-1,DMAX DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3431
+#EXTINF:-1,DMAX HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19683
+#EXTINF:-1,n-tv DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3449
+#EXTINF:-1,n-tv FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14054
+#EXTINF:-1,Phoenix DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3454
+#EXTINF:-1,Phoenix FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16487
+#EXTINF:-1,Planet HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/18394
+#EXTINF:-1,Spiegel TV Wissen DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14045
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16573
+#EXTINF:-1,tagesschau24 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15752
+#EXTINF:-1,TLC DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12324
+#EXTINF:-1,TLC FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15757
+#EXTINF:-1,Universal Channel HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3439
+#EXTINF:-1,Welt DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3448
+#EXTINF:-1,Welt HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14573
+#EXTINF:-1,Welt der Wunder DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12305
+#EXTINF:-1,CLASSICA DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/9555
+#EXTINF:-1,Deluxe Music DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/9554
+#EXTINF:-1,JukeBox DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15579
+#EXTINF:-1,MTV HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15759
+#EXTINF:-1,Comedy Central DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12317
+#EXTINF:-1,Comedy Central HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19677
+#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15575
+#EXTINF:-1,Sky Cinema Fun DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3430
+#EXTINF:-1,Sky Family FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15576
+#EXTINF:-1,Sky Cinema Classics DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/9556
+#EXTINF:-1,Sky Select 1 Live DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/11265
+#EXTINF:-1,Sky Select 9 Live DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12290
+#EXTINF:-1,13th Street FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14060
+#EXTINF:-1,E! DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16502
+#EXTINF:-1,E! HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15567
+#EXTINF:-1,FOX HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3425
+#EXTINF:-1,FOX FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14055
+#EXTINF:-1,Kinowelt TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12291
+#EXTINF:-1,TNT Comedy HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15577
+#EXTINF:-1,Kino Premiere 1 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/18234
+#EXTINF:-1,Eagle Cinema 3 Komodie HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/26325
+#EXTINF:-1,Eagle Cinema 10 Lacheln HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/26332
+#EXTINF:-1,Eagle Entdeckernatur 11 4K UHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/26333
+#EXTINF:-1,Astro TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12339
+#EXTINF:-1,München TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/11659
+#EXTINF:-1,DW Arabia DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19620
+#EXTINF:-1,DW Deutsch DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/27791
+#EXTINF:-1,DW English DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/17300
+#EXTINF:-1,German Tote TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/23945
+#EXTINF:-1,HGTV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/27656
+#EXTINF:-1,Health TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28231
+#EXTINF:-1,Allgäu TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28232
+#EXTINF:-1,Baden TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28233
+#EXTINF:-1,noa4 Hamburg HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28238
+#EXTINF:-1,noa4 Norderstedt HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28239
+#EXTINF:-1,Frauen Bundesliga HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/35184
+#EXTINF:-1,Nicktoons DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/37836
+#EXTINF:-1,Voxup DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/52134
+#EXTINF:-1,QVC UHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/66354
+#EXTINF:-1,Bon Gusto FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/70825
+#EXTINF:-1,Telekom Fussball 3 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/24233
+#EXTINF:-1,Telekom Del Sport 3 HD (nur Spiel Tag) DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28383
+#EXTINF:-1,Telekom Sport BBL 3 HD (nur Spiel Tag) DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28379
+#EXTINF:-1,3+ FHD CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19592
+#EXTINF:-1,Tele Basel CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19599
+#EXTINF:-1,MySports 3 FHD CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/17486
+#EXTINF:-1,Blue Sport 2 CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12475
+#EXTINF:-1,BeCurious TV CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/13160
+#EXTINF:-1,Canal Alpha HD CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/13150
+#EXTINF:-1,MySports 3 FHD French CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/17493
+#EXTINF:-1,RSI LA 2 HD CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/11651
